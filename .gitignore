@@ -1,0 +1,56 @@
+# -----------------------------
+# Python cache & compiled files
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -----------------------------
+# Jupyter Notebook checkpoints
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# Virtual environments
+# -----------------------------
+venv/
+env/
+.venv/
+
+# -----------------------------
+# Streamlit cache
+# -----------------------------
+.streamlit/
+
+# -----------------------------
+# Audio files (DO NOT UPLOAD)
+# -----------------------------
+*.wav
+*.mp3
+*.flac
+speaker_chunks/
+uploaded_audio.wav
+
+# -----------------------------
+# Model & cache files
+# -----------------------------
+.cache/
+torch_cache/
+transformers_cache/
+huggingface/
+
+# -----------------------------
+# Environment variables / secrets
+# -----------------------------
+.env
+*.env
+
+# -----------------------------
+# OS-specific files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+secrets.txt
+
