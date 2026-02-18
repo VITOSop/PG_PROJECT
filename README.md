@@ -9,7 +9,6 @@ An end-to-end AI system that converts raw meeting audio into structured meeting 
 - 📄 Automatic meeting summary
 - 🤖 AI-generated bullet points
 - ✅ Action item extraction (Task | Owner | Deadline)
-- 📊 Token usage metrics
 - 🖥️ Interactive Streamlit UI
 
 ## 🧩 Tech Stack
